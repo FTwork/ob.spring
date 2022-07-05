@@ -1,0 +1,5 @@
+ft\obspring\controllers\LaptopController.class
+ft\obspring\ObSpringApplication.class
+ft\obspring\repositories\LaptopRepository.class
+ft\obspring\entities\Laptop.class
+ft\obspring\controllers\HelloController.class
