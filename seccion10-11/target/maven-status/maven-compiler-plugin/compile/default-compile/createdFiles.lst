@@ -1,0 +1,6 @@
+ft\obspring\controllers\LaptopController.class
+ft\obspring\ObSpringApplication.class
+ft\obspring\repositories\LaptopRepository.class
+ft\configurations\SwaggerConfig.class
+ft\obspring\entities\Laptop.class
+ft\obspring\controllers\HelloController.class
